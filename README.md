@@ -16,9 +16,13 @@ cd Shizuka-V1.3
 ```
 **STEP 4**
 ```
-bash run.sh
+rm -rf session
 ```
 **STEP 5**
+```
+bash run.sh
+```
+**STEP 6**
 ```
 npm start 
 ```
