@@ -8,15 +8,19 @@ cd $HOME
 ```
 **STEP 2**
 ```
-pkg update -y && pkg upgrade -y && pkg install bash && pkg install git -y && git clone https://github.com/Tanmyname/Shizuka-V1.2.git
+pkg update -y && pkg upgrade -y && pkg install bash && pkg install git -y && git clone https://github.com/Tanmyname/Shizuka-V1.3.git
 ```
 **STEP 3**
 ```
-cd Shizuka-V1.2
+cd Shizuka-V1.3
 ```
 **STEP 4**
 ```
 bash run.sh
+```
+**STEP 5**
+```
+npm start 
 ```
 ## Support me :) 
 <br>
