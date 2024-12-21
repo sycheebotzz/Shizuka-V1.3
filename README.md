@@ -26,7 +26,10 @@ bash run.sh
 ```
 npm start 
 ```
-## Support me :) 
+## Panel version
+**Upload filezip pada sc yang sudah di download**
+
+### Support me :) 
 <br>
 <div align="center">
 <a href='https://saweria.co/Supporttann' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
