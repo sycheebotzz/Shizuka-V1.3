@@ -27,7 +27,7 @@ bash run.sh
 npm start 
 ```
 ## Panel version
-**Upload filezip pada sc yang sudah di download**
+**Download  file panel_version.zip kemudian upload ke Panel anda**
 
 ### Support me :) 
 <br>
