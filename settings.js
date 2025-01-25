@@ -180,8 +180,7 @@ global.thum = fs.readFileSync("./data/image/thumb.jpg") //ur thumb pic
 global.log0 = fs.readFileSync("./data/image/thumb.jpg") //ur logo pic
 global.err4r = fs.readFileSync("./data/image/thumb.jpg") //ur error pic
 global.thumb = fs.readFileSync("./data/image/thumb.jpg") //ur thumb pic
-global.defaultpp = 'https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png?q=60' //default pp wa
-
+global.defaultpp = 'Penyimpanan internal/Pictures/100PINT/Pins/ f721dbaefac6954be82ed17cb7074ab2.jpg'
 //menu image maker
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.fluming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=fluffy-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
@@ -190,23 +189,23 @@ global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutp
 
 //messages
 global.mess = {
-wait: 'Loading....',
-   success: "Sukses",
-   on: "Sudah Aktif", 
-   off: "Sudah Off",
+wait: 'sbr, loading....',
+   success: "sukses",
+   on: "sdh aktif bro", 
+   off: "sdh off jir",
    query: {
-       text: "Teks Nya Mana?",
-       link: "Link Nya Mana?",
+       text: "teks nya mna co?",
+       link: "link nya mna co?",
    },
    error: {
        fitur: "Mohon Maaf Fitur Eror Silahkan Chat Developer Bot Agar Bisa Segera Diperbaiki",
    },
    only: {
-       group: "Maaf Fitur Ini Hanya Bisa Digunakan Di Dalam Group",
-       private: "Maaf Fitur Ini Hanya Bisa Digunakan Di Dalam Private Chat",
-       owner: "Maaf Fitur Ini Hanya Bisa Digunakan Sama Owner Bot",
-       admin: "Maaf Fitur Ini Hanya Bisa Digunakan Sama Owner Bot",
-       badmin: "Maaf Kaya Nya Kakak Tidak Bisa Menggunakan Fitur Ini Di Karenakan Bot Bukan Admin Group",
+       group: "udh tau fitur nya khusus grup, msih aja ngeyel🙄",
+       private: "udh tau fitur nya khusus private chat, msih aja ngeyel lu🙄",
+       owner: "lu bkn owner",
+       admin: "lu bkn owner bot",
+       badmin: "bot bkn admin bre",
        premium: "ᴍᴀᴀғ ᴋᴀᴍᴜ ʙᴇʟᴏᴍ ᴍᴇɴᴊᴀᴅɪ ᴜsᴇʀ ᴘʀᴇᴍɪᴜᴍ ᴜɴᴛᴜᴋ ᴍᴇɴᴊᴀᴅɪ ᴘʀᴇᴍɪᴜᴍ sɪʟᴀᴋᴀɴ ʙᴇʟɪ ᴅɪ ᴏᴡɴᴇʀ ᴅᴇɴɢᴀɴ ᴄᴀʀᴀ ᴋᴇᴛɪᴋ  .ᴏᴡɴᴇʀ",
    }
 }
