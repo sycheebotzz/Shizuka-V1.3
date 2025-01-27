@@ -16,12 +16,12 @@ global.btz = 'masukkan apikey mu di sini'
 //===============SETTING MENU==================\\
 global.thumbnail = fs.readFileSync("./data/image/thumb.jpg")
 global.ig = '--'
-global.yt = 'Tan'
-global.ttowner = '@codenametan'
-global.ownername = '@Tan'
-global.owner = ['72722727272'] // SETTING JUGA DI FOLDER DATABASE OWNER.json
-global.ownernomer = '1718272828'
-global.socialm = 'GitHub: Tanmyname'
+global.yt = ''
+global.ttowner = '@seannnghstt0'
+global.ownername = '@all'
+global.owner = ['6282194345945'] // SETTING JUGA DI FOLDER DATABASE OWNER.json
+global.ownernomer = '6282194345945'
+global.socialm = ''
 global.location = 'Indonesia' 
 //========================setting Payment=====================\\
 global.nodana = '' // KOSONG KAN JIKA TIDAK ADA
@@ -32,22 +32,22 @@ global.andana = 'Tan' // KOSONG KAN JIKA TIDAK ADA
 global.angopay = 'Tan' // KOSONG KAN JIKA TIDAK ADA
 global.anovo = '' // KOSONG KAN JIKA TIDAK ADA
 //==================setting bot===========================\\
-global.botname = "Tv2"
-global.ownernumber = '1818191'
-global.botnumber = '6285198468895'
-global.ownername = '@Tan'
-global.ownerNumber = ["61827191818@s.whatsapp.net"]
+global.botname = "Zkielzz"
+global.ownernumber = '6282194345945'
+global.botnumber = '6282291427718'
+global.ownername = '@all'
+global.ownerNumber = ["6282194345945@s.whatsapp.net"]
 global.ownerweb = ""
 global.websitex = ""
 global.gris = '`'
 global.wagc = "https://chat.whatsapp.com/DuolGpi5CIWDR8dYO6E1pC"
 global.saluran = "https://whatsapp.com/channel/0029VaTck0W6GcGMwiq4tQ3k"
 global.themeemoji = '🪀'
-global.wm = "Tv2 | 6285198468895"
-global.botscript = 'Ngk ada wle😂' //script link
-global.packname = "Sticker By"
-global.author = "\n\n\n\n\nCreate by Tv2\nNo hape/wa : 6285198468895"
-global.creator = "6285198468895@s.whatsapp.net"
+global.wm = "Zkielzz | 6282291427718"
+global.botscript = 'ga ada wle😂' //script link
+global.packname = " "
+global.author = " "
+global.creator = "6282194345945@s.whatsapp.net"
 //======================== CPANEL FITUR ===========================\\
 global.domain = '-' // Isi Domain Lu jangan kasih tanda / di akhir link
 global.apikey = '-' // Isi Apikey Plta Lu
@@ -190,23 +190,23 @@ global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutp
 
 //messages
 global.mess = {
-wait: 'Loading....',
-   success: "Sukses",
-   on: "Sudah Aktif", 
-   off: "Sudah Off",
+wait: 'sabar cuy....',
+   success: "sukses bre",
+   on: "sdh aktif bro", 
+   off: "srry sdh off",
    query: {
-       text: "Teks Nya Mana?",
-       link: "Link Nya Mana?",
+       text: "teks Nya Mana?",
+       link: "link Nya Mana?",
    },
    error: {
        fitur: "Mohon Maaf Fitur Eror Silahkan Chat Developer Bot Agar Bisa Segera Diperbaiki",
    },
    only: {
-       group: "Maaf Fitur Ini Hanya Bisa Digunakan Di Dalam Group",
-       private: "Maaf Fitur Ini Hanya Bisa Digunakan Di Dalam Private Chat",
-       owner: "Maaf Fitur Ini Hanya Bisa Digunakan Sama Owner Bot",
-       admin: "Maaf Fitur Ini Hanya Bisa Digunakan Sama Owner Bot",
-       badmin: "Maaf Kaya Nya Kakak Tidak Bisa Menggunakan Fitur Ini Di Karenakan Bot Bukan Admin Group",
+       group: "fitur nya khusus group bre",
+       private: "fitur nya khusus private chat jir",
+       owner: "lu bkn owner",
+       admin: "lu bkn owner bot",
+       badmin: "bot bkn admin",
        premium: "ᴍᴀᴀғ ᴋᴀᴍᴜ ʙᴇʟᴏᴍ ᴍᴇɴᴊᴀᴅɪ ᴜsᴇʀ ᴘʀᴇᴍɪᴜᴍ ᴜɴᴛᴜᴋ ᴍᴇɴᴊᴀᴅɪ ᴘʀᴇᴍɪᴜᴍ sɪʟᴀᴋᴀɴ ʙᴇʟɪ ᴅɪ ᴏᴡɴᴇʀ ᴅᴇɴɢᴀɴ ᴄᴀʀᴀ ᴋᴇᴛɪᴋ  .ᴏᴡɴᴇʀ",
    }
 }
